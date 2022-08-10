@@ -1,0 +1,23 @@
+*{
+    font-family: Arial;
+}
+body{
+    background-color: azure;
+}
+.titulo{
+    text-align: center;
+    font-size: 40px;
+    color: brown;
+}
+.parrafo1{
+    font-size: 20px;
+    color: rgb(255, 174, 0);
+}
+.parrafo2{
+    font-size: 17px;
+    color: rgb(255, 174, 0);
+}
+.piepagina{
+    font-size: 15px;
+    color: rgb(89, 243, 0);
+}
